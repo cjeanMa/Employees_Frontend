@@ -30,5 +30,5 @@ npm start
 
 The port by default is **3000**
 
-Before start this application, remenmber start the backend project stored in
- [Employees_Frontend](https://github.com/cjeanMa/Employees_BackEnd)
+Before start this application, remember start the backend project stored in
+ [Employees_BackEnd](https://github.com/cjeanMa/Employees_BackEnd)
